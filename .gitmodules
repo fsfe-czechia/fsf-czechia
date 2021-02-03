@@ -1,0 +1,15 @@
+# Teams
+## Counsil
+[submodule "teams/counsil"]
+	path = teams/counsil
+	url = gitea@git.dotya.ml:fsfe-czechia/counsil.git
+
+## Public relations
+[submodule "teams/public-relations"]
+	path = teams/public-relations
+	url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
+
+## Translators
+[submodule "teams/translators"]
+	path = teams/translators
+	url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
