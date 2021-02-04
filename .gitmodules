@@ -18,3 +18,10 @@
 	path = teams/translators
 	#url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
 	url = git@github.com:fsfe-czechia/teams-translators.git
+
+# Websites
+[submodule "www/fsfe-website"]
+	path = www/fsfe-webstite
+	branch = czechia
+	#url = gitea@git.dotya.ml:fsfe-czechia/www_fsfe-website.git
+	url = git@github.com:fsfe-czechia/www_fsfe-website.git
