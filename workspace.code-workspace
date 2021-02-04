@@ -119,5 +119,8 @@
 		"code-eol.crlfCharacter": "↓",
 		"shellcheck.run": "onSave",
 		"editor.wordWrap": "on",
+
+		// GitLens
+		"gitlens.currentLine.enabled": false
 	},
 }

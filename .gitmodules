@@ -1,15 +1,20 @@
+# NOTE(Krey): We are currently using GitHub due to the blockers tracked at https://github.com/fsfe-czechia/fsfe-czechia/issues/1 after which we are expected to migrade on Gitea
+
 # Teams
 ## Counsil
-[submodule "teams/counsil"]
-	path = teams/counsil
-	url = gitea@git.dotya.ml:fsfe-czechia/counsil.git
+[submodule "teams/counsel"]
+	path = teams/counsel
+	#url = gitea@git.dotya.ml:fsfe-czechia/counsil.git
+	url = git@github.com:fsfe-czechia/teams-counsel.git
 
 ## Public relations
 [submodule "teams/public-relations"]
 	path = teams/public-relations
-	url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
+	#url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
+	url = git@github.com:fsfe-czechia/teams-public_relations.git
 
 ## Translators
 [submodule "teams/translators"]
 	path = teams/translators
-	url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
+	#url = gitea@git.dotya.ml:fsfe-czechia/public-relations.git
+	url = git@github.com:fsfe-czechia/teams-translators.git
