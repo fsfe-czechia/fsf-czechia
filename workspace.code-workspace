@@ -3,6 +3,12 @@
 		{
 			"path": "."
 		},
+		{
+			"path": "www/fsfe-website"
+		},
+		{
+			"path": "projects/gitea"
+		}
 	],
 	"extensions": {
 		"recommendations": [
