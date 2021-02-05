@@ -25,3 +25,10 @@
 	branch = czechia
 	#url = gitea@git.dotya.ml:fsfe-czechia/www_fsfe-website.git
 	url = git@github.com:fsfe-czechia/www_fsfe-website.git
+
+# Projects
+[submodule "projects/gitea"]
+	path = projects/gitea
+	branch = discussions
+	#url = gitea@git.dotya.ml:fsfe-czechia/www_fsfe-website.git
+	url = git@github.com:fsfe-czechia/projects_gitea.git
