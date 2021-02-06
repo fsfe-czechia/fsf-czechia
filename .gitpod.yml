@@ -1,0 +1,26 @@
+vscode:
+  # NOTE(Krey): This is a hotfix until following issue is resolved https://github.com/eclipse-theia/theia/issues/9034, remove once implemented
+  extensions:
+    - exiasr.hadolint@0.3.0:/FkAW3eTb+z9O7VZAyAa0w==
+    - aaron-bond.better-comments
+    - genuitecllc.codetogether
+    - coenraads.bracket-pair-colorizer-2
+    - streetsidesoftware.code-spell-checker
+    - serayuzgur.crates
+    - ms-azuretools.vscode-docker
+    - tamasfe.even-better-toml
+    - markwylde.vscode-filesize
+    - eamodio.gitlens
+    - exiasr.hadolint
+    - oderwat.indent-rainbow
+    - stephen-riley.regexworkbench
+    - medo64.render-crlf
+    - swellaby.vscode-rust-test-adapter
+    - matklad.rust-analyzer
+    - belfz.search-crates-io
+    - timonwong.shellcheck
+    - hbenl.vscode-test-explorer
+    - gruntfuggly.todo-tree
+    - bbenoist.vagrant
+    - slenderman00.vsirc
+    - yzhang.markdown-all-in-one
