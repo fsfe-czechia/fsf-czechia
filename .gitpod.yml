@@ -1,3 +1,6 @@
+image:
+  file: gitpod/dockerfiles/gitpod.Dockerfile
+
 vscode:
   # NOTE(Krey): This is a hotfix until following issue is resolved https://github.com/eclipse-theia/theia/issues/9034, remove once implemented
   extensions:
